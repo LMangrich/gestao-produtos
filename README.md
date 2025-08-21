@@ -28,7 +28,7 @@ Projeto simples de CRUD de produtos feito em **Laravel**. Permite criar, listar,
 
 -   PHP 8 ou superior
 -   Composer
--   MySQL
+-   Banco de dados compatível com Laravel (MySQL, SQLite, PostgreSQL, SQL Server)
 
 ---
 
